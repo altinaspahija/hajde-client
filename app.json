@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Hajde",
+    "icon": "./assets/icon.png",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "orientation": "portrait",
+    "version": "3.1.11",
+    "slug": "hajde-client",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.hajde.client",
+      "buildNumber": "3.1.11"
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.hajde.client",
+      "versionCode": 50,
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    }
+  }
+}
